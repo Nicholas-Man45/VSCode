@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dfs",
+            "request": "launch",
+            "mainClass": "LaiCode.Algorithms.Dfs",
+            "projectName": "VSCode_52895188"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Recursion",
+            "request": "launch",
+            "mainClass": "LaiCode.Algorithms.Recursion",
+            "projectName": "VSCode_52895188"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarySearch",
+            "request": "launch",
+            "mainClass": "LaiCode.Algorithms.BinarySearch",
+            "projectName": "VSCode_52895188"
+        }
+    ]
+}
