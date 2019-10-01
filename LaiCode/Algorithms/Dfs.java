@@ -69,7 +69,10 @@ public class Dfs {
     }
 
     // permutation
-  
+    public List<String> permutation1(String set){
+        List<String> result = new ArrayList<>();
+        return result;
+    }
 
     public static void main(String[] args) {
         Dfs dfs = new Dfs();
